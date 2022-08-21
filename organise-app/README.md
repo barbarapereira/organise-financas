@@ -1,27 +1,28 @@
-# OrganiseApp
+# Organi$e-Finanças
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/barbarapereira/organise-financas/blob/main/licence) 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Sobre o Projeto:
+#### Organi$e-Finanças é uma aplicação web para obter controle financeiro de forma simples.
+ - 🥳 Cadastre todos os seus gastos e tenha controle para onde vai o seu dinheiro.
+ - 💰 Tenha uma previsibilidade financeira, para não se assustar no fim do mês
+ - 💳 Cadastre contas mensais e 0 cartão de crédito para descobrir quanto sobra $$$
+ 
+ ## Tecnologias utilizadas:
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Babi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Babi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Babi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Babi-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />  
+  <img align="center" alt="Babi-Material-Ui" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+</div>
+  
+ 
+ ## Como executar o projeto:
+ 
+ # Autor: 
+ ## Bárbara Pereira
+ <div> 
+  <a href = "mailto:barbara.pereira1990@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
+  <br>
+  <a href="https://www.linkedin.com/in/barbara-frontend-developer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div
